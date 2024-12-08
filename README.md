@@ -1,7 +1,7 @@
-# **Pharma Management System**
+# **Pharmacy Management System**
 
 ## **Project Description**
-The **Pharma Management System** is a comprehensive application for managing pharmacy inventory. Built using **Streamlit** and **Tkinter**, it offers two different user interfaces (web-based and desktop) for greater flexibility. This system enables efficient tracking of stock, managing product collections, and handling critical attributes such as product details, pricing, and expiry dates.
+The **Pharmacy Management System** is a comprehensive application for managing pharmacy inventory. Built using **Streamlit** and **Tkinter**, it offers two different user interfaces (web-based and desktop) for greater flexibility. This system enables efficient tracking of stock, managing product collections, and handling critical attributes such as product details, pricing, and expiry dates.
 
 The application uses **MongoDB** for cloud-based data storage, ensuring scalability, security, and real-time access to inventory information.
 
