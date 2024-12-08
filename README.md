@@ -61,7 +61,7 @@ The application uses **MongoDB** for cloud-based data storage, ensuring scalabil
    ```bash
    streamlit run app.py
 
-### **Steps to Run the Web-Based Application (Streamlit)**
+### **Steps to Run the Desktop Application (Tkinter)**
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/pharma-management-system.git
